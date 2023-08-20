@@ -24,6 +24,9 @@ body{
     flex-direction: column;
     background-color: hsl(244, 38%, 16%);
 }
+h1,h2{
+    color:hsl(0, 0%, 100%)
+}
 .stats-row{
     display: flex;
 }
