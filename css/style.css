@@ -69,7 +69,6 @@ p{
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
     }
-    }
     .l-side{
         height: 565px;
         padding: 0;
@@ -93,6 +92,9 @@ p{
         flex-direction: column;
         gap: 0;
         margin:0;
+    }
+    .stats-col{
+        text-align: center;
     }
 
 }
