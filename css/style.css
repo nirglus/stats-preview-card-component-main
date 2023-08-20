@@ -26,13 +26,13 @@ body{
     display: flex;
     flex-direction: column;
     background-color: hsl(244, 38%, 16%);
-    padding: 60px;
+    padding: 32px 60px;
 }
 h1,h2{
     color:hsl(0, 0%, 100%)
 }
 h1{
-    width: 300px;
+    width: 346px;
 }
 .insights{
     color: hsl(277, 64%, 61%);
@@ -40,7 +40,7 @@ h1{
 }
 p{
     color: hsla(0, 0%, 100%, 0.75);
-    width: 314px;
+    width: 380px;
 }
 .stats-row span{
     color: hsla(0, 0%, 100%, 0.6);
