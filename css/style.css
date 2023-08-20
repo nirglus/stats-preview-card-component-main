@@ -43,4 +43,6 @@ span{
 }
 .stats-row{
     display: flex;
+    gap: 50px;
+    margin: 40px 0;
 }
