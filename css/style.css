@@ -41,6 +41,7 @@ h1{
 p{
     color: hsla(0, 0%, 100%, 0.75);
     width: 380px;
+    line-height: 1.8;
 }
 .stats-row span{
     color: hsla(0, 0%, 100%, 0.6);
