@@ -30,6 +30,9 @@ h1,h2{
 p{
     color: hsla(0, 0%, 100%, 0.75);
 }
+span{
+    color: hsla(0, 0%, 100%, 0.6);
+}
 .stats-row{
     display: flex;
 }
