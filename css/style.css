@@ -27,6 +27,9 @@ body{
 h1,h2{
     color:hsl(0, 0%, 100%)
 }
+p{
+    color: hsla(0, 0%, 100%, 0.75);
+}
 .stats-row{
     display: flex;
 }
