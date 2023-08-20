@@ -10,7 +10,7 @@ body{
 }
 #card{
     display: flex;
-    width: 1000px;
+    width: 1110px;
     height: 446px;
 
 }
@@ -23,6 +23,7 @@ body{
     display: flex;
     flex-direction: column;
     background-color: hsl(244, 38%, 16%);
+    padding: 60px;
 }
 h1,h2{
     color:hsl(0, 0%, 100%)
