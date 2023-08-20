@@ -61,6 +61,25 @@ p{
         height: 800px;
         flex-direction: column-reverse;
     }
+    .r-side{
+        background-image: url(../images/image-header-mobile.jpg);
+        width: 100%;
+        height:300px;
+        background-size: contain;
+    }
+    .l-side{
+        height:420px;
+        padding: 0;
+        width: unset;
+        justify-content: center;
+        align-items: center;
+    }
+    h1{
+        width: unset;
+    }
+    p{
+        width: unset;
+    }
     .stats-row{
         flex-direction: column;
     }
