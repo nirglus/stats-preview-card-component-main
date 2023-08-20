@@ -6,10 +6,11 @@ body{
     align-items: center;
     flex-direction: column;
     height: 100vh;
+    background-color: hsl(233, 47%, 7%);
 }
 #card{
     display: flex;
-    width: 1200px;
+    width: 1000px;
     height: 446px;
 
 }
@@ -18,7 +19,7 @@ body{
     width: 540px;
 }
 .l-side{
-    width: 660px;
+    width: 455px;
     display: flex;
     flex-direction: column;
 }
