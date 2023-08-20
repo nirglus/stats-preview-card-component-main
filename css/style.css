@@ -36,6 +36,7 @@ h1{
 }
 p{
     color: hsla(0, 0%, 100%, 0.75);
+    width: 314px;
 }
 span{
     color: hsla(0, 0%, 100%, 0.6);
