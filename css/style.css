@@ -61,5 +61,8 @@ p{
         height: 800px;
         flex-direction: column-reverse;
     }
+    .stats-row{
+        flex-direction: column;
+    }
 
 }
