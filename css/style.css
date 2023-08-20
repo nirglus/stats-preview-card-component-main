@@ -76,10 +76,14 @@ p{
         padding: 22px;
     }
     h1{
-        width: unset;
+        width: 305px;
+        text-align: center;
+        font-size: 30px;
+        margin-bottom: 0;
     }
     p{
-        width: unset;
+        width: 278px;
+        text-align: center;
     }
     .stats-row{
         flex-direction: column;
