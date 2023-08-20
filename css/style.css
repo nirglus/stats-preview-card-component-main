@@ -22,6 +22,7 @@ body{
     width: 455px;
     display: flex;
     flex-direction: column;
+    background-color: hsl(244, 38%, 16%);
 }
 .stats-row{
     display: flex;
