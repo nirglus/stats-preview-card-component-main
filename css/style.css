@@ -9,15 +9,16 @@ body{
 }
 #card{
     display: flex;
-    width:700px;
+    width: 1200px;
+    height: 446px;
 
 }
 .r-side{
     background-image: url(../images/image-header-desktop.jpg);
-    width:100%;
+    width: 540px;
 }
 .l-side{
-    width:200px;
+    width: 660px;
     display: flex;
     flex-direction: column;
 }
