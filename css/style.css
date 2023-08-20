@@ -11,13 +11,13 @@ body{
 }
 #card{
     display: flex;
-    width: 1110px;
+    width: 1036px;
     height: 446px;
 
 }
 .r-side{
     background-image: url(../images/image-header-desktop.jpg);
-    width: 540px;
+    width: 650px;
     background-color: hsl(277, 64%, 61%);
     background-blend-mode: multiply;
 }
@@ -47,6 +47,8 @@ p{
     color: hsla(0, 0%, 100%, 0.6);
     text-transform: uppercase;
     font-family: 'Lexend Deca', sans-serif;
+    font-size: 14px;
+    font-size: 12px;
 }
 .stats-row{
     display: flex;
